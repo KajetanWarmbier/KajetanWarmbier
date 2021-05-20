@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 🌠</h1>
+<h1 align="center">Hello There ⭐</h1>
 <h3 align="center">Busy head digging throught the data.</h3>
 
 - 🔭 Currently fucusing on [LoL-Comp-Builder](https://github.com/KajetanWarmbier/LoL-Champion-Data-Parser)
