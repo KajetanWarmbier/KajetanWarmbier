@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kajetan-warmbier" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="kajetan-warmbier" height="25" width="25" /></a>
-<a href="https://fb.com/kaimakowy" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="kaimakowy" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/kajetan-warmbier" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="kajetan-warmbier" height="25" width="25" /></a>&nbsp
+<a href="https://fb.com/kaimakowy" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="kaimakowy" height="25" width="25" /></a>&nbsp
 <a href="https://instagram.com/edited.by.kai" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="edited.by.kai" height="25" width="25" /></a>
 </p>
 
