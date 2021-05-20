@@ -1,4 +1,4 @@
-<h1 align="center">Hello There ⭐</h1>
+<h1 align="center">Hello There <img align="center" src="https://raw.githubusercontent.com/KajetanWarmbier/KajetanWarmbier/a3382ec583a3e6b08471bac4c49d0485e6c8a5f8/readMeAssets/death-star.svg" alt="death-star" height="25" width="25" /></h1>
 <h3 align="center">Busy head digging throught the data.</h3>
 
 - 🔭 Currently fucusing on [LoL-Comp-Builder](https://github.com/KajetanWarmbier/LoL-Champion-Data-Parser)
