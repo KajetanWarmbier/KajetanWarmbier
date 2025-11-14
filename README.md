@@ -1,12 +1,6 @@
 <h1 align="center">Hello There <p><img align="center" src="https://raw.githubusercontent.com/KajetanWarmbier/KajetanWarmbier/33a653a4f18998eeb9cd71acc4b4b7512ed39d57/readme%20Assets/space-station.svg" alt="death-star" height="40" width="40" /></p></h1> <!--Icon made by Nhor Phai-->
 <h3 align="center">Busy head digging throught the data.</h3>
 
-- 🔭 Currently fucusing on [WZR Plus](https://github.com/KajetanWarmbier/wzrPlus)
-
-- 🌱 Currently learning **MERN**
-
-- 📫 Contact me! **kajetan.warmbier@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kajetan-warmbier" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="kajetan-warmbier" height="25" width="25" /></a>&nbsp
